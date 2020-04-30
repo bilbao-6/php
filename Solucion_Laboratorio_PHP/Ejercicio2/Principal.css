@@ -1,0 +1,16 @@
+.container{
+    width: 100%;
+    
+}
+h1{
+    font-size: 20px;
+    font-family: monospace;
+}
+.ti{
+    font-size: 40px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.692);
+    margin-top: -5px;
+    height: 60px;
+}
